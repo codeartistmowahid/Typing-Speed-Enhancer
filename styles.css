@@ -54,3 +54,6 @@ body, .quote-input {
   color: red;
   text-decoration: underline;
 }
+h4 {
+  color: rgb(51, 51, 51);
+}
